@@ -19,6 +19,7 @@ public class HanhaeseokServlet extends HttpServlet {
      */
     public HanhaeseokServlet() {
         super();
+        //ㅇㅇㅇㅇ
         // TODO Auto-generated constructor stub
     }
 
