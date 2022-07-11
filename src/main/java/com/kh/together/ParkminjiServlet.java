@@ -37,5 +37,9 @@ public class ParkminjiServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
+	
+	public void test() {
+		System.out.println("push 테스트!");
+	}
 
 }
